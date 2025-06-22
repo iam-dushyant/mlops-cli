@@ -1,0 +1,2 @@
+[console_scripts]
+mlops-cli = mlops_cli.main:app

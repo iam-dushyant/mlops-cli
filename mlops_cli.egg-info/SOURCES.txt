@@ -1,0 +1,9 @@
+setup.py
+mlops_cli/__init__.py
+mlops_cli/main.py
+mlops_cli.egg-info/PKG-INFO
+mlops_cli.egg-info/SOURCES.txt
+mlops_cli.egg-info/dependency_links.txt
+mlops_cli.egg-info/entry_points.txt
+mlops_cli.egg-info/requires.txt
+mlops_cli.egg-info/top_level.txt
